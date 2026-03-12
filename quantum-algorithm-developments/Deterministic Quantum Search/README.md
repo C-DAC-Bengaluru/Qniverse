@@ -24,8 +24,3 @@ This repository includes two OpenQASM files corresponding to the specific exampl
 ## Running the Code
 
 These OpenQASM files represent standard quantum circuits and can be executed on various quantum simulators and platforms. They are fully compatible with environments like **Qiskit** and can be seamlessly imported and evaluated on **Qniverse: A Unified Quantum Computing Platform**.
-
-## Citation
-If you use this code or build upon the deterministic search algorithm, please cite the original manuscript:
-
-> Mishra, H., Balasubramanyam, A., & Raghava, G. N. (2026). *Deterministic Quantum Search for Arbitrary Initial Success Probabilities*. Quantum Technology Group, Centre for Development of Advanced Computing (C-DAC), Bangalore, India.
