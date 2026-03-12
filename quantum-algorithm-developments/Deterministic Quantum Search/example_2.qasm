@@ -1,6 +1,5 @@
 OPENQASM 2.0;
 include "qelib1.inc";
-include "qniverse.gates.inc";
 
 qreg q[4];
 creg c[3];
